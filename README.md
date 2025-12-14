@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 
 ## 🌐 Live Link
 
-Check out the live version of my portfolio here: **[https://allamgowrisankar0001.github.io/My_Portfolio/](https://allamgowrisankar0001.github.io/My_Portfolio/)**
+Check out the live version of my portfolio here: **[https://allamgowrisankar0001.github.io/Portfolio/](https://allamgowrisankar0001.github.io/Portfolio/)**
 
 ## 📋 About
 
