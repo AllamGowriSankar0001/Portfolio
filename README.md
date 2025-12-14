@@ -52,7 +52,7 @@ My_Portfolio/
 ## 📧 Get in Touch
 
 Feel free to connect with me:
-- **Email**: [anjalibunga130704@gmail.com](mailto:anjalibunga130704@gmail.com)
+- **Email**: [allamgowrisankar001@gmail.com](mailto:allamgowrisankar001@gmail.com)
 - **Live Portfolio**: [https://allamgowrisankar0001.github.io/My_Portfolio/](https://allamgowrisankar0001.github.io/My_Portfolio/)
 
 ## 📄 License
